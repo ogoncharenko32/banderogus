@@ -32,6 +32,11 @@ body {
     width: 50%;
 }
 
+.main-page-left-side {
+    width: 50%;
+    display: contents;
+}
+
 .main-page-hello-text {
     font-family: "Montserrat",
     sans-serif;
@@ -149,7 +154,7 @@ body {
 }
 
 .facts-item-gus-img {
-    width: 100%;
+    width: 50%;
 }
 
 .form-container {
@@ -316,7 +321,7 @@ body {
     }
 
     .gus-img {
-        width: 80%;
+        width: 50%;
     }
     .main-page-left-side {
     padding-left: 10px;
